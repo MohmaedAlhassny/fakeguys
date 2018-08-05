@@ -59,6 +59,7 @@ tndm.on('message', message => {
 });
 
 tndm.on('guildMemberAdd', member => {
+		if(member.user.id === '462347056007086080') return;
 const codes = member.guild.channels.get("473884668823994368");//ايدي الشات
 if(!codes) return;
 if(codes) {
