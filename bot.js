@@ -20,7 +20,6 @@ const twelve = new Discord.Client();
 '**Welcome __2__ `Dynasty` Server.**',
 '**Weeeeeeelcome to __Dynasty__ world.**',
 '**Welcome To Dynasty.**',
-`**Weelcome to <:Dynasty:475553643349671937> .**`,
 '**Weelcome to Dynaasty,?**',
 "**Welcome to dynasty, Youu're in Dynassty world.**"
 ]
