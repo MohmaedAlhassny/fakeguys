@@ -220,15 +220,15 @@ twelve.on('message', message => {
 });
 
 //login
-thm.login(process.env.1);
-tndm.login(process.env.2);
-firstm.login(process.env.3);
-fou.login(process.env.4);
-fiv.login(process.env.5);
-six.login(process.env.6);
-seven.login(process.env.7);
-eight.login(process.env.8);
-nine.login(process.env.9);
-ten.login(process.env.10);
-eleven.login(process.env.11);
-twelve.login(process.env.12);
+thm.login("NDc1MzA3NDQxODY5ODE1ODI4.DkdIaA.6bsicTiEWlcvFoskoGVVHUK6gnU");
+tndm.login("NDc1MzAxNjExNTA2MzY4NTE3.DkdCxg.Rf5r6Msc9id04nnmMXa2e3Zwu5o");
+firstm.login("NDc1MzAyNTcxNDk4NjY4MDU0.DkdD6A.r_-hEn-ZxlD5nR702fS8d_UOgNI");
+fou.login("NDc1MzA4NzgwNzk2NzcyMzUy.DkdJhg.jYcNbztLq7qAmQtBqlIBHseMmDo");
+fiv.login("NDc1MzEyOTE5ODI0MDM5OTQ3.DkdNiw.6weWpFxOUaW5zipk7xpULzow8dM");
+six.login("NDc1MzE0OTcwNzA4NjcyNTMy.DkdPOA.IsEtc_RheJ1CFgIyyjkN9bGvHAc");
+seven.login("NDc1MzIxODYyOTY1MTY2MDkx.DkdVsw.XBdj_EuGCFhsxOnyEieRWciNvCI");
+eight.login("NDc1MzI0MzMyNjUwNzkwOTEz.DkdYJg.YmIzAa6D-bIOMPYytb0yyhypSTg");
+nine.login("NDc1MzI1MTcwMzIwNjcwNzUw.DkdYsA.yTHqeWFh1oRyT1Akr35d5C14nnI");
+ten.login("NDc1MzI1NjYwMTA2MDYzOTAz.DkdZUg.Vyufwlkt3EHSfS1P0udl9Tug5o4");
+eleven.login("NDc1MzI2ODY5NDc0OTAyMDM3.DkdaOQ.DBlH5HWt9xM3e2CJF-eM3y832yw");
+twelve.login("NDc1NTU0MDE3NzU4NTQzODcy.Dkgt1Q.1VaRupePBlXO-HiFvDjqjJalAZA");
